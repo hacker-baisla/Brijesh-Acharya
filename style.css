@@ -165,7 +165,7 @@
     height: 70px;
     width: 100%;
     display: flex;
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
 }
 .objective span{
@@ -181,7 +181,7 @@
 
 .t-data{
     width: 50%;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 
@@ -191,7 +191,7 @@
     text-decoration: underline;  
 }
 .about-x ul{
-    font-size: 30px;
+    font-size: 25px;
     
 }
 
@@ -205,7 +205,7 @@
 /* contact */
 .contact-info ul{
     list-style: none;
-    font-size: 30px;
+    font-size: 22tpx;
 }
 .contact-info ul li a{
     text-decoration: none;
