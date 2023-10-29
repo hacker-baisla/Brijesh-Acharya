@@ -125,7 +125,10 @@
     border: 1px solid black;
     float: right;
 }
-
+.block-1 img{
+    height: 310px;
+    width: 100%;
+    }
 
 
 /* about page starting */
