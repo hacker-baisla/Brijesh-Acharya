@@ -52,24 +52,20 @@
     border-bottom-left-radius: 20px;
 }
 
-
-
-.banner div{
-    height: 500px;
+.container{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    border: 10px solid #ffffff;
+    border-radius: 8px;
+    box-shadow: 10px 25px 30px rgba(30,30,200,0.3);
+}
+.wrapper{
     width: 100%;
     display: flex;
-    border: 5px solid red;
-    overflow: hidden;
-    
+    animation: slide 16s infinite;
 }
-
-.banner div img{
-    height: auto;
-    width: auto;
-    animation: slide 20s infinite;
-}
-
-@keyframes slide {
+@keyframes slide{
     0%{
         transform: translateX(0);
     }
@@ -94,25 +90,10 @@
     100%{
         transform: translateX(-300%);
     }
-    0%{
-        transform: translateX(0);
-    }
 }
 
-.banner img{
-            height: 500px;
-            width: 100%;
-        }
-
-
-.banner h1{
-    display: inline-block;
-    color: white;
-    position: absolute;
-    top: 20%;
-    left: 32%;
-    font-size: 80px;
-    font-family: "Times New Roman", Times, serif;
+img{
+    width: 100%;
 }
 
 
