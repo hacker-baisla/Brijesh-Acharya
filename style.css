@@ -64,7 +64,7 @@
 }
 
 .banner div img{
-    animation: slide 16s infinite;
+    animation: slide 20s infinite;
 }
 
 @keyframes slide {
