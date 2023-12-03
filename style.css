@@ -64,6 +64,8 @@
 }
 
 .banner div img{
+    height: 500px;
+    width: 100%;
     animation: slide 20s infinite;
 }
 
