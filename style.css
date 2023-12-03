@@ -154,6 +154,8 @@
 .block img{
     height: 310px;
     width: 100%;
+    border: 4px solid white;
+    border-radius: 30px;
 }
 
 
@@ -166,6 +168,8 @@
 .block-1 img{
     height: 310px;
     width: 100%;
+    border: 4px solid white;
+    border-radius: 30px;
     }
 
 
