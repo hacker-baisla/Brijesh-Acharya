@@ -58,7 +58,7 @@
     overflow: hidden;
     border: 5px solid red;
     border-radius: 30px;
-    box-shadow: 10px 25px 30px rgba(30,30,200,0.3);
+    box-shadow: 10px 25px 30px red;
 }
 .wrapper{
     width: 100%;
