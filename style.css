@@ -58,7 +58,7 @@
     overflow: hidden;
     border: 5px solid red;
     border-radius: 30px;
-    box-shadow: 10px 10px 20px red;
+    box-shadow: 5px 5px 10px red;
 }
 .wrapper{
     width: 100%;
@@ -138,7 +138,7 @@ img{
     width: 100%;
     border: 4px solid red;
     border-radius: 30px;
-    box-shadow: 10px 25px 30px rgba(30,30,200,0.3);
+    box-shadow: 5px 5px 10px red;
 }
 
 
